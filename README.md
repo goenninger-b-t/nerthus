@@ -1,6 +1,5 @@
-# <img src="https://github.com/goenninger-b-t/nerthus/blob/e479f57cbca5727c4154f11be2820f6bed861606/assets/images/nerthus.jpg" width="200" height="107"/>  NERTHUS
-
-<p><h2><b>NERTHUS</b></h2>
+# <img src="https://github.com/goenninger-b-t/nerthus/blob/e479f57cbca5727c4154f11be2820f6bed861606/assets/images/nerthus.jpg" width="400" height="214"/>  NERTHUS
+<p>
 
 ## What Is This?
 Nerthus is an application foundation framework supplying basic building blocks for Common Lisp-based applications. 
