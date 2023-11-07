@@ -2,7 +2,7 @@
 <p>
 
 ## What Is This?
-Nerthus is an application foundation framework supplying basic building blocks for Common Lisp-based applications. 
+Nerthus is an application foundation framework supplying basic building blocks for Common Lisp-based applications. The name Nerthus is based on the Norse Goddess Nerthus - fopr further info, [please see here](https://oldworldgods.com/norse/nerthus-norse-goddess/).
 
 ## Licensing
 
@@ -14,7 +14,7 @@ Nerthus is an application foundation framework supplying basic building blocks f
 For commercial licensing options, please contact Gönninger B&T's sales at [info@goenninger.net](mailto:sales@goenninger.net) - Thank you.
 
 ## Reporting Problems
-Generally you can report problems by [opening an issue](https://github.com/GOENNINGERBT/nerthus/issues). You should have the following pieces handy in order for us to be able to help you out as quickly and painlessly as possible:
+Generally you can report problems by [opening an issue](https://github.com/goenninger-b-t/nerthus/issues). You should have the following pieces handy in order for us to be able to help you out as quickly and painlessly as possible:
 
 * The application or module that is affected.
 * The branch of ThingBone you are using.
