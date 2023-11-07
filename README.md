@@ -2,7 +2,7 @@
 <p>
 
 ## What Is This?
-Nerthus is an application foundation framework supplying basic building blocks for Common Lisp-based applications. The name Nerthus is based on the Norse Goddess Nerthus - fopr further info, [please see here](https://oldworldgods.com/norse/nerthus-norse-goddess/).
+Nerthus is an application foundation framework supplying basic building blocks for Common Lisp-based applications. The name Nerthus is based on the Norse Goddess Nerthus - for further info [please see here](https://oldworldgods.com/norse/nerthus-norse-goddess/).
 
 ## Licensing
 
