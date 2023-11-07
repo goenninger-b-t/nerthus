@@ -1,4 +1,4 @@
-# <img src="https://github.com/GOENNINGERBT/nerthus/raw/master/assets/images/nerbus.gif" width="200" height="107"/>  NERTHUS
+# <img src="https://github.com/goenninger-b-t/nerthus/blob/e479f57cbca5727c4154f11be2820f6bed861606/assets/images/nerthus.jpg" width="200" height="107"/>  NERTHUS
 
 <p><h2><b>NERTHUS</b></h2>
 
