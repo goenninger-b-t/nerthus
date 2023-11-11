@@ -4,6 +4,6 @@
 
 (in-package #:net.goenninger.nerthus.core)
 
-(defclass process-pool (nerbus.platform:proces-pool)
-  ())
+;; (defclass process-pool (nerbus.platform:proces-pool)
+;;   ())
 
